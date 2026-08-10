@@ -2,6 +2,7 @@
    MAIN APPLICATION LOGIC & INTERACTION CONTROLLERS
    ========================================================================== */
 
+import './style.css';
 import confetti from 'canvas-confetti';
 import { ParticleEngine } from './particles.js';
 import { GymAudioEngine } from './audio.js';
